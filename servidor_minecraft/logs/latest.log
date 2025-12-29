@@ -1,0 +1,23 @@
+[29Dec2025 00:02:03.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread lost connection: Disconnected
+[29Dec2025 00:02:03.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread left the game
+[29Dec2025 00:03:03.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Dec2025 00:03:03.073] [Server thread/INFO] [scguns/]: Emergency cleanup called for temporary lights in dimension: minecraft:overworld
+[29Dec2025 00:03:03.074] [Server thread/INFO] [scguns/]: Emergency cleanup called for temporary lights in dimension: minecraft:the_nether
+[29Dec2025 00:03:03.074] [Server thread/INFO] [scguns/]: Emergency cleanup called for temporary lights in dimension: lostcities:lostcity
+[29Dec2025 00:03:03.075] [Server thread/INFO] [scguns/]: Emergency cleanup called for temporary lights in dimension: minecraft:the_end
+[29Dec2025 00:03:03.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2025 00:03:03.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2025 00:03:03.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Dec2025 00:03:03.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Dec2025 00:03:03.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Dec2025 00:03:03.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[29Dec2025 00:03:03.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Dec2025 00:03:04.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Dec2025 00:03:04.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Dec2025 00:03:04.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[29Dec2025 00:03:04.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Dec2025 00:03:04.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Dec2025 00:03:04.503] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Dec2025 00:03:04.507] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[29Dec2025 00:03:04.516] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[29Dec2025 00:03:04.528] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
